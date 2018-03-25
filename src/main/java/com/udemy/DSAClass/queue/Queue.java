@@ -22,6 +22,10 @@ public class Queue {
 		nItems++;
 	}
 	
+	public void remove() {
+		
+	}
+	
 	public void view() {
 		System.out.println("[ ");
 		for(int i = 0; i < queueArray.length; i++) {
