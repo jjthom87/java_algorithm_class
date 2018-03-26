@@ -9,6 +9,7 @@ public class App {
 		myQueue.insert(100);
 		myQueue.insert(100);
 		myQueue.insert(100);
+		myQueue.insert(100);
 		myQueue.view();
 	}
 
